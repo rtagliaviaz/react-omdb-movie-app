@@ -9,7 +9,7 @@ const App = () => {
   return (
       <div className="App">
         {/* <BrowserRouter> */}
-        <HashRouter basename="/">
+        <HashRouter >
           {/* <Switch> */}
           <>
             <Route exact path='/' component={Home}/>
