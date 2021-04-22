@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-omdb-movie-app/static/css/main.d0fe855a.chunk.css",
-    "main.js": "/react-omdb-movie-app/static/js/main.db29ec6c.chunk.js",
-    "main.js.map": "/react-omdb-movie-app/static/js/main.db29ec6c.chunk.js.map",
+    "main.js": "/react-omdb-movie-app/static/js/main.7ecabe2d.chunk.js",
+    "main.js.map": "/react-omdb-movie-app/static/js/main.7ecabe2d.chunk.js.map",
     "runtime-main.js": "/react-omdb-movie-app/static/js/runtime-main.f7236789.js",
     "runtime-main.js.map": "/react-omdb-movie-app/static/js/runtime-main.f7236789.js.map",
     "static/js/2.87c1893e.chunk.js": "/react-omdb-movie-app/static/js/2.87c1893e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f7236789.js",
     "static/js/2.87c1893e.chunk.js",
     "static/css/main.d0fe855a.chunk.css",
-    "static/js/main.db29ec6c.chunk.js"
+    "static/js/main.7ecabe2d.chunk.js"
   ]
 }
