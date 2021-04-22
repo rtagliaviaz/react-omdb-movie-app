@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-omdb-movie-app/static/css/main.d0fe855a.chunk.css",
-    "main.js": "/react-omdb-movie-app/static/js/main.7ecabe2d.chunk.js",
-    "main.js.map": "/react-omdb-movie-app/static/js/main.7ecabe2d.chunk.js.map",
+    "main.css": "/react-omdb-movie-app/static/css/main.05b96fad.chunk.css",
+    "main.js": "/react-omdb-movie-app/static/js/main.0643982e.chunk.js",
+    "main.js.map": "/react-omdb-movie-app/static/js/main.0643982e.chunk.js.map",
     "runtime-main.js": "/react-omdb-movie-app/static/js/runtime-main.f7236789.js",
     "runtime-main.js.map": "/react-omdb-movie-app/static/js/runtime-main.f7236789.js.map",
     "static/js/2.87c1893e.chunk.js": "/react-omdb-movie-app/static/js/2.87c1893e.chunk.js",
     "static/js/2.87c1893e.chunk.js.map": "/react-omdb-movie-app/static/js/2.87c1893e.chunk.js.map",
     "index.html": "/react-omdb-movie-app/index.html",
-    "static/css/main.d0fe855a.chunk.css.map": "/react-omdb-movie-app/static/css/main.d0fe855a.chunk.css.map",
+    "static/css/main.05b96fad.chunk.css.map": "/react-omdb-movie-app/static/css/main.05b96fad.chunk.css.map",
     "static/js/2.87c1893e.chunk.js.LICENSE.txt": "/react-omdb-movie-app/static/js/2.87c1893e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f7236789.js",
     "static/js/2.87c1893e.chunk.js",
-    "static/css/main.d0fe855a.chunk.css",
-    "static/js/main.7ecabe2d.chunk.js"
+    "static/css/main.05b96fad.chunk.css",
+    "static/js/main.0643982e.chunk.js"
   ]
 }
