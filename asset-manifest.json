@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MovieDB/static/css/main.d0fe855a.chunk.css",
-    "main.js": "/MovieDB/static/js/main.8db3f9c2.chunk.js",
-    "main.js.map": "/MovieDB/static/js/main.8db3f9c2.chunk.js.map",
-    "runtime-main.js": "/MovieDB/static/js/runtime-main.5ce33bb7.js",
-    "runtime-main.js.map": "/MovieDB/static/js/runtime-main.5ce33bb7.js.map",
-    "static/js/2.233c4618.chunk.js": "/MovieDB/static/js/2.233c4618.chunk.js",
-    "static/js/2.233c4618.chunk.js.map": "/MovieDB/static/js/2.233c4618.chunk.js.map",
-    "index.html": "/MovieDB/index.html",
-    "static/css/main.d0fe855a.chunk.css.map": "/MovieDB/static/css/main.d0fe855a.chunk.css.map",
-    "static/js/2.233c4618.chunk.js.LICENSE.txt": "/MovieDB/static/js/2.233c4618.chunk.js.LICENSE.txt"
+    "main.css": "/react-omdb-movie-app/static/css/main.d0fe855a.chunk.css",
+    "main.js": "/react-omdb-movie-app/static/js/main.8db3f9c2.chunk.js",
+    "main.js.map": "/react-omdb-movie-app/static/js/main.8db3f9c2.chunk.js.map",
+    "runtime-main.js": "/react-omdb-movie-app/static/js/runtime-main.f7236789.js",
+    "runtime-main.js.map": "/react-omdb-movie-app/static/js/runtime-main.f7236789.js.map",
+    "static/js/2.233c4618.chunk.js": "/react-omdb-movie-app/static/js/2.233c4618.chunk.js",
+    "static/js/2.233c4618.chunk.js.map": "/react-omdb-movie-app/static/js/2.233c4618.chunk.js.map",
+    "index.html": "/react-omdb-movie-app/index.html",
+    "static/css/main.d0fe855a.chunk.css.map": "/react-omdb-movie-app/static/css/main.d0fe855a.chunk.css.map",
+    "static/js/2.233c4618.chunk.js.LICENSE.txt": "/react-omdb-movie-app/static/js/2.233c4618.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ce33bb7.js",
+    "static/js/runtime-main.f7236789.js",
     "static/js/2.233c4618.chunk.js",
     "static/css/main.d0fe855a.chunk.css",
     "static/js/main.8db3f9c2.chunk.js"
