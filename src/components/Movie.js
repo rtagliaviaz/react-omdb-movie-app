@@ -89,7 +89,7 @@ useEffect(() => {
           //   pathname: "/",
           // }}
           >
-          <img src="/assets/icons/icon-arrow-grey.png" alt="" />
+          <img src="assets/icons/icon-arrow-grey.png" alt="" />
         </div>
       <div className="movie-info">
         <div className="info">
@@ -103,7 +103,7 @@ useEffect(() => {
           <div className="labels">
             <div className="labels__imdb">
               <div className="logo">
-              <img src="/assets/logos/logo-imdb.png" alt=""/>
+              <img src="assets/logos/logo-imdb.png" alt=""/>
               </div>
               <div className="rating">
                 <p>{details.Ratings[0].Value}</p>
@@ -113,7 +113,7 @@ useEffect(() => {
             <div className="labels__rottenTomatoes">
              
                 <div className="logo">
-                  <img src="/assets/logos/logo-rotten-tomatoes.png" alt=""/>
+                  <img src="assets/logos/logo-rotten-tomatoes.png" alt=""/>
                 </div>
               
               <div className="rating">
@@ -126,7 +126,7 @@ useEffect(() => {
               {!added ? 
               <div className="labels__favorite" onClick={e =>addtoFavorites(e, details.Poster, details.Title, details.Year, details.imdbID)}>
                 <div className="icon">
-                <img src="/assets/icons/icon-heart-grey.png" alt=""/>
+                <img src="assets/icons/icon-heart-grey.png" alt=""/>
                 </div>
                 <div className="text">
                 <p>Add to favourites</p>
@@ -134,7 +134,7 @@ useEffect(() => {
               </div> :
               <div className="labels__favorite favAdded" onClick={e =>removeFromFavorites(e, details.imdbID)}>
               <div className="icon">
-              <img src="/assets/icons/icon-heart-full.png" alt=""/>
+              <img src="assets/icons/icon-heart-full.png" alt=""/>
               </div>
               <div className="text added">
               <p>Added</p>

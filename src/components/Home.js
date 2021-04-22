@@ -92,7 +92,7 @@ const Home = () => {
       return(
         <div>
           <div className="homeLogo">
-            <img src="/assets/Logo.png" alt=""/>
+            <img src="assets/Logo.png" alt=""/>
           </div>
           <div className="homeMsg">
             <p className="primary">Cannot find movies with that name, please search for another</p>
@@ -166,7 +166,7 @@ const Home = () => {
       return(
         <div>
           <div className="homeLogo">
-            <img src="/assets/Logo.png" alt=""/>
+            <img src="assets/Logo.png" alt=""/>
           </div>
           <div className="homeMsg">
             <p className="primary">Cannot find movies with that name, please search for another</p>
@@ -182,7 +182,7 @@ const Home = () => {
             {list.map((li, index) => (<div className="movie" key={li.imdbID}>
               
                   <div className="favorite" onClick={e => test(e, li.imdbID, li.Title, li.Year, li.Poster, li.favorite, index)}>
-                    {li.favorite ? <img src="/assets/icons/icon-heart-full.png" alt="" className="icon"/> : <img src="/assets/icons/icon-heart-white.png" alt="" className="icon" />}
+                    {li.favorite ? <img src="assets/icons/icon-heart-full.png" alt="" className="icon"/> : <img src="assets/icons/icon-heart-white.png" alt="" className="icon" />}
                   </div>
                   
                   <Link
