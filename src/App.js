@@ -10,10 +10,12 @@ const App = () => {
       <div className="App">
         {/* <BrowserRouter> */}
         <HashRouter basename="/">
-          <Switch>
+          {/* <Switch> */}
+          <>
             <Route exact path='/' component={Home}/>
             <Route exact path='/details/:imdbId' component={Movie}/>
-          </Switch>
+          </>
+          {/* </Switch> */}
         </HashRouter>
         {/* </BrowserRouter> */}
       </div>
