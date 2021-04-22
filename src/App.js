@@ -1,4 +1,5 @@
-import {Link,BrowserRouter, Route, Switch } from 'react-router-dom'
+// import {Link,BrowserRouter, Route, Switch } from 'react-router-dom'
+import { HashRouter, Route } from 'react-router-dom'
 //components
 import Home from './components/Home'
 import Movie from './components/Movie'
@@ -7,12 +8,14 @@ import Movie from './components/Movie'
 const App = () => {
   return (
       <div className="App">
-        <BrowserRouter>
+        {/* <BrowserRouter> */}
+        <HashRouter basename="/">
           <Switch>
             <Route exact path='/' component={Home}/>
             <Route exact path='/details/:imdbId' component={Movie}/>
           </Switch>
-        </BrowserRouter>
+        </HashRouter>
+        {/* </BrowserRouter> */}
       </div>
   );
 }
